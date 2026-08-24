@@ -35,7 +35,7 @@ Email: wangyangsen@stu.pku.edu.cn
 
 # 📝 Publications 
 
-- [TOSEM'26] **LAMDA: Leveraging Large Language Models for Better API Misuse Detection via Multi-Agent Collaboration** <a href='https://github.com/VMnK-Run/LAMDA'><i class="fab fa-github"></i>[GitHub]</a> (CCF-A)
+- [TOSEM'26] **LAMDA: Leveraging Large Language Models for Better API Misuse Detection via Multi-Agent Collaboration** <a href='https://dl.acm.org/doi/10.1145/3837764'><i class="fa fa-file-pdf"></i>[PDF]</a> <a href='https://github.com/VMnK-Run/LAMDA'><i class="fab fa-github"></i>[GitHub]</a> (CCF-A)
 
   ***Yangsen Wang***, Yizhou Chen, Zhihao Gong, and Dan Hao
 
