@@ -25,7 +25,7 @@ Email: wangyangsen@stu.pku.edu.cn
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 One paper is accepted by TOSEM 2026.
+- *2026.07*: &nbsp;🎉🎉 One paper is accepted by TOSEM.
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by ASE 2024.
 
 # 📖 Educations
